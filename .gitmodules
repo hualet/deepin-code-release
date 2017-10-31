@@ -163,3 +163,6 @@
 [submodule "deepin-clone"]
 	path = project/deepin-clone
 	url = ssh://cr.deepin.io:29418/deepin-clone
+[submodule "dtkwidget"]
+	path = project/dtkwidget
+	url = ssh://cr.deepin.io:29418/dtkwidget
