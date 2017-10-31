@@ -160,3 +160,6 @@
 [submodule "project/dde-help"]
 	path = project/dde-help
 	url = ssh://cr.deepin.io:29418/dde/dde-help
+[submodule "deepin-clone"]
+	path = project/deepin-clone
+	url = ssh://cr.deepin.io:29418/deepin-clone
